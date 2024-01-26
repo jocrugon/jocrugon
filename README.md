@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jocrugon]
 
-- 💬 Ask me about **Java, SpringBoot, .Net, C#...**
+- 💬 Ask me about **Java, SpringBoot, .Net, C#, Angular, JavaScript**
 
 - 📫 How to reach me **darioucv99@gmail.com**
 
